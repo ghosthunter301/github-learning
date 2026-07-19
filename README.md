@@ -6,4 +6,11 @@ My first GitHub project.
 
 - Learn Git
 - Learn GitHub workflow
-- Learn CI/CD
+- Learn CI/CDgit 
+
+## My Skills
+
+- React
+- Node.js
+- GitHub
+- AI Engineering
