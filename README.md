@@ -27,3 +27,4 @@ I am practicing:
 - Branching
 - Pull Requests
 - CI/CD
+- Professional development workflow
