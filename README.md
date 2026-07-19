@@ -8,9 +8,11 @@ My first GitHub project.
 - Learn GitHub workflow
 - Learn CI/CDgit 
 
-## My Skills
+## Skills
 
 - React
 - Node.js
-- GitHub
-- AI Engineering
+- Backend Development
+- Cloud Engineering
+- AI Applications
+- GitHub Workflow
