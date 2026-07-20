@@ -1,4 +1,4 @@
-# GitHub Learning
+# GitHub Developer Learning
 
 My first GitHub project.
 
