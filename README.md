@@ -32,3 +32,7 @@ I am practicing:
 ## Redescription
 
 This stands for my project developing
+
+## Adding section
+
+This section is added by conflict branch
