@@ -16,3 +16,15 @@ My first GitHub project.
 - Cloud Engineering
 - AI Applications
 - GitHub Workflow
+
+## Project Description
+
+This repository is my GitHub learning project.
+
+I am practicing:
+
+- Git workflow
+- Branching
+- Pull Requests
+- CI/CD
+- Professional development workflow
