@@ -1,1 +1,3 @@
 "Feature work before rebase" 
+
+- git configures all version controls
