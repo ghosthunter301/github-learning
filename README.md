@@ -28,3 +28,7 @@ I am practicing:
 - Pull Requests
 - CI/CD
 - Professional development workflow
+
+## Redescription
+
+This stands for my project developing
